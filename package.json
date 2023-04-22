@@ -1,5 +1,5 @@
 {
-  "name": "news-app-with-ts",
+  "name": "codinginflow-nextjs-crash-course",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,17 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@types/node": "18.15.13",
-    "@types/react": "18.0.38",
+    "@next/font": "13.1.6",
+    "@types/node": "18.14.0",
+    "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
     "bootstrap": "^5.2.3",
-    "eslint": "8.39.0",
-    "eslint-config-next": "13.3.1",
-    "next": "13.3.1",
+    "eslint": "8.34.0",
+    "eslint-config-next": "13.1.6",
+    "next": "13.1.6",
     "nextjs-progressbar": "^0.0.16",
     "react": "18.2.0",
-    "react-bootstrap": "^2.7.4",
+    "react-bootstrap": "^2.7.2",
     "react-dom": "18.2.0",
-    "typescript": "5.0.4"
+    "typescript": "4.9.5"
   }
 }
